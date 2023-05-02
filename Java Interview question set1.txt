@@ -26,6 +26,24 @@
 26 What is 'public static void main ( String args[ ] ) ' signifies?
 27 What 'System.out.println()' signifies?
 28 What is a variable in Java program?
-29 What is JVM?
+29 What is JVM, JDK, JRE?
 30 What is bytecode?
 31 What is Java applet?
+32 What is set and how its working ?
+33 How HashMap is working ?
+34 What is the difference between Comprator and Comparable ?
+35 List vs Array and internal working 
+36 Linked list vs Array List and its difference 
+37 HashTable vs HashMap
+38 Can we Override main method? how ?
+39 Can a try block without catch ?
+40 In whcih situtation finally block will not execute 
+41 final vs finally vs fialize
+42 What is static keyword and block and where we should use
+43 Type of typeCasting ? Can we typecast a boolean to char 
+44 Default value of int, string, double,..,... (all datatypes)  ?
+45 In which scenario we should use array and arrayList ?  Why not should use arraylist over array
+46 what is String and substring() how internally it is wokrking ? In which case we should use character array over String
+47 Encapsulation vs Abstraction 
+48 If we can access privaate member using setter and getter method why we should make members as private ?
+
