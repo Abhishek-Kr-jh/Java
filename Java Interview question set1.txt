@@ -45,5 +45,16 @@
 45 In which scenario we should use array and arrayList ?  Why not should use arraylist over array
 46 what is String and substring() how internally it is wokrking ? In which case we should use character array over String
 47 Encapsulation vs Abstraction 
-48 If we can access privaate member using setter and getter method why we should make members as private ?
+48 If we can access private member using setter and getter method why we should make members as private ?
+49 How to Make a class Immutable?
+50 How to create multi thereaded Application ?
+51 How to handle the situation when thread is crash (autorecovery feature) ?
+52 Can we have multiple catch block? can we have nested try-catch block?
+53 When to use interface ande when abstract class? Can we define a method in interfae ?
+54 Java 8 feature 
+55 What is stream api ? Findi maximum even(1,2,3,4,5,6) element using steam api. 
+56 What is functional interface and what are the use of functional interface? 
+57 What is Optional in java 8?
+
+
 
