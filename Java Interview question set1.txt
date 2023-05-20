@@ -52,9 +52,12 @@
 52 Can we have multiple catch block? can we have nested try-catch block?
 53 When to use interface ande when abstract class? Can we define a method in interfae ?
 54 Java 8 feature 
-55 What is stream api ? Findi maximum even(1,2,3,4,5,6) element using steam api. 
+55 What is stream api ? Find maximum even(1,2,3,4,5,6) element using steam api. 
 56 What is functional interface and what are the use of functional interface? 
 57 What is Optional in java 8?
+58 How to insure when data packet is resived when sendingg by rest api ?
+59 What is serialization or serilizable ?
+60 Sort a class based  on age if age is same then name if name is also same then based on salary 
 
 
 
